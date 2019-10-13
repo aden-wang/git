@@ -8,5 +8,6 @@ public class BranchDemo {
         System.out.println("分支bbs创建，开始开发论坛");
         System.out.println("分支bbs开发第1天");
         System.out.println("分支bbs开发完成");
+        System.out.println("等待与master分支合并");
     }
 }
