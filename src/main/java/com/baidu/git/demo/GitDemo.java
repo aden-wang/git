@@ -6,5 +6,6 @@ package com.baidu.git.demo;
 public class GitDemo {
     public static void main(String[] args) {
         System.out.println("GitDemo项目创建");
+        System.out.println("GitDemo项目创建2");
     }
 }
