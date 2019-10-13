@@ -8,5 +8,6 @@ public class GitDemo {
         System.out.println("GitDemo项目创建");
         System.out.println("GitDemo项目创建2");
         System.out.println("添加1条记录");
+        System.out.println("添加2条记录");
     }
 }
